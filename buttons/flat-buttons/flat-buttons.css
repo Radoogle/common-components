@@ -1,0 +1,23 @@
+/* The base of every button */
+.button-nav {
+  display: inline-block;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  padding: .8rem 1rem;
+  border: 1px solid black;
+  color: #000;
+  
+  /* text-align: center; */
+  /* line-height: 1.42857143; */
+  /* margin-bottom: 10px; */
+  /* border-radius: 4px; */
+  /* white-space: nowrap; */
+  /* vertical-align: middle; */
+}
+
+.button-nav:hover {
+  background-color: #000;
+  color: #fff;
+  transition: background-color .15s ease-in-out;
+}
