@@ -1,0 +1,9 @@
+/*==== FOOTER STYLES ====*/
+
+.content {
+  min-height: calc(100vh - 50px);
+}
+
+.footer {
+  height: 50px;
+}
